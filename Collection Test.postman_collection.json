@@ -257,7 +257,7 @@
 		},
 		{
 			"key": "submission",
-			"value": "https://api.postman.com/collections/4916973-4bbb05fb-60e1-4538-87a8-75ef62c92f71?access_key=PMAT-01JBC9X07BXZQ1KTHNRJ6M7F9R",
+			"value": "https://api.postman.com/collections/4916973-4bbb05fb-60e1-4538-87a8-75ef62c92f71?access_key=' '",
 			"type": "string"
 		}
 	]
