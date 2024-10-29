@@ -10,6 +10,4 @@ I specialize in API testing and development, utilizing tools like Postman for ef
 ### Certifications
 - Postman Badge: API Testing (https://lnkd.in/dFP8Uwsi)
 
-### Sample Projects
-- [Project 1](link-to-project-1): Description of the API you developed/tested.
-- [Project 2](link-to-project-2): Description of the API you developed/tested.
+
